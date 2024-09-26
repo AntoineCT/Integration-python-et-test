@@ -8,7 +8,3 @@ def cosinus(x):
 
 def tangeante(x):
     return math.tan(x)
-
-print(round(sinus(math.pi), 2))
-print(cosinus(math.pi*2))
-print(round(tangeante(math.pi*2), 2))
